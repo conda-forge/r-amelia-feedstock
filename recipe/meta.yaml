@@ -36,6 +36,7 @@ requirements:
     - r-rcpp >=0.11
     - r-rcpparmadillo
     - r-foreign
+    - r-rlang
   run:
     - libopenblas
     - r-base
@@ -43,6 +44,7 @@ requirements:
     - r-rcpp >=0.11
     - r-rcpparmadillo
     - r-foreign
+    - r-rlang
 
 test:
   commands:
